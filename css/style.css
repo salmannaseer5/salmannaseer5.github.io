@@ -46,3 +46,12 @@ h5 {
   height: 24px;
   border-radius: 5%;
 } */
+
+.aboutpage{
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.education{
+  list-style-type: none;
+}
